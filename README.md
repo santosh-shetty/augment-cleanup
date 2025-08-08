@@ -8,4 +8,5 @@ This script safely removes all local traces of the Augment AI VSCode extension:
 
 ### 🔧 Run directly (Linux/macOS):
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/santosh-shetty/augment-cleanup/main/clean-augment.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/santosh-shetty/augment-cleanup/main/clean_augment.sh)"
+
